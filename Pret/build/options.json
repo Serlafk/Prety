@@ -1,0 +1,13 @@
+{
+
+    "FakeSlaves" : {
+        "Status" : true,
+        "MinGenSet" : 5,
+        "MaxGenSet" : 398
+    },
+
+    "SlaveTransition" : {
+        "Status" : true,
+        "LoopbackPort" : ":1985"
+    }
+}

